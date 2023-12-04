@@ -1,6 +1,13 @@
 # Line Follower Robot That Performs Olympic-themed Sensing and communication
 
 **More info in the report!**
+- abstract
+- introduction
+- experimental procedures
+- results
+- analysis & discussion
+- conclusion
+- design details
 
 ## Summary
 This year’s Integrated Design Challenge requires five autonomous bots to act as judges for the BOE-lympics. Each individual bot first has to follow a black ring around their object to be sensed. The bots then must use sensors to take measurements such as the color, size, slope, distance, and magnetic strength of an object. Based on the measurements taken, each bot will then transmit a 0, 1, or 2 to the other bot based on what object it senses. The bots will add together the values it receives, in addition to its own value, and take the modulus of 3 of that number. When the remainder is a 2, the bots have to perform a song using a piezoelectric speaker. When the remainder is 1, the bots will perform a light show using LEDs or an LCD display. When the remainder is 0, the bots will perform a dance using servo motors.
