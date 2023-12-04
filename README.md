@@ -11,3 +11,6 @@ Our group’s bot is the weightlifting bot. The three objects the bot could have
 4) It will send the value it senses, and listen for the values that other groups send. Once it receives a message from each group, the bot will calculate the remainder of the sum of the numbers it receives, and then perform its song, light show, or dance.
 
 Our Bot only had one mistake, a miscalculation of the final remainder.
+
+Final bot (Hall-effect sensor hidden by XBee module and QTI sensors hidden by bot)
+![robot](robot.png)
